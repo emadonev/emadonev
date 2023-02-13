@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emadonev
-- 👀 I’m interested in astronomy and science
-- 🌱 I’m currently learning python programming
+- 👋 Hi, I’m @emadonev and I'm 15
+- 👀 I’m interested in astrophysics and physics
+- 🌱 I’m currently working on a machine learning model for recognising galaxy mergers
 
 <!---
 emadonev/emadonev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
