@@ -5,7 +5,7 @@ Hello there! I'm Ema, a high schooler from Croatia who is in love with astrophys
 For all my research, I work in Python in which I have advanced usage, especially for data analysis. I also have some experience with HTML/CSS. 
 
 # My work & competitions
-My main work is **research**, and I have done several thus far and have a lot more planned for the future:
+My main work is **research**, and I have done several projects thus far and have a lot more planned for the future:
 
 - _Analysis of exoplanetary systems_ - creating extrasolar systems, categorizing exoplanets and trying to find patterns in the planetary world outside of our solar system
 - _Neural networks: recognizing galaxy mergers_ - CNN designed to recognize if an image is a galaxy merger or not based on simualted data, a Hello Universe project from MAST https://archive.stsci.edu/hello-universe
