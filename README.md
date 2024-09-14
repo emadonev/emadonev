@@ -1,4 +1,6 @@
-Hello there! I'm Ema, a high schooler from Croatia who is in love with astrophysics, physics and programming. I'm also super into reading and art :)
+# A bit about me
+---
+Hello there! I'm Ema, a high schooler from Croatia who is in love with astrophysics, physics and programming. I do research, go to math and astronomy competitions, and have even competed in IOAA. I'm also super into reading and art :)
 
 # My work
 ---
@@ -6,7 +8,7 @@ My main work is **research**, and I have done several thus far and have a lot mo
 
 - _Analysis of exoplanetary systems_ - creating extrasolar systems, categorizing exoplanets and trying to find patterns in the planetary world outside of our solar system
 - _Neural networks: recognizing galaxy mergers_ - CNN designed to recognize if an image is a galaxy merger or not based on simualted data, a Hello Universe project from MAST https://archive.stsci.edu/hello-universe
-- _Analysis of the Blazhko Effect for Field RR Lyrae Stars using LINEAR and ZTF Light Curves_ - a collaborative project with dr. @ivezic, trying to find new Blazhko stars in the field with 2 independent surveys 10 years appart (future published paper, still in progress!)
+- _Analysis of the Blazhko Effect for Field RR Lyrae Stars using LINEAR and ZTF Light Curves_ - a collaborative project with dr. Ivezić, trying to find new Blazhko stars in the field with 2 independent surveys 10 years appart (future published paper, still in progress!)
 
 # Skills
 ---
