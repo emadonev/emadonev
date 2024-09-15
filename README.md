@@ -1,5 +1,5 @@
 # A bit about me
-Hello there! I'm Ema, a high schooler from Croatia who is in love with astrophysics, physics and programming. I do research, go to math and astronomy competitions. I'm also super into reading and art :)
+Hello there! I'm Ema, a high-schooler from Croatia who is in love with astrophysics, physics and programming. I do research, go to math and astronomy competitions. I'm also super into reading and art :)
 
 # Skills
 For all my research, I work in Python in which I have advanced usage, especially for data analysis. I also have some experience with HTML/CSS. 
