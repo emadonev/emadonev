@@ -7,7 +7,7 @@ For all my research, I work in Python in which I have advanced usage, especially
 # My work & competitions
 My main work is **research**, and I have done several projects thus far and have a lot more planned for the future:
 
-- _Analysis of the Blazhko Effect for Field RR Lyrae Stars using LINEAR and ZTF Light Curves_ - a collaborative project with dr. Ivezić, trying to find new Blazhko stars in the field with 2 independent surveys 10 years appart. With the project finished successfully, our research is in the process of being published! We found 228 new Blazhko field stars! (2024-2025)
+- _Search for the Blazhko Effect in Field RR Lyrae Stars Using LINEAR and ZTF Light Curves_ - a collaborative project with dr. Ivezić, trying to find new Blazhko stars in the field with 2 independent surveys 10 years appart. With the project finished successfully, our research has been published May 15th in the **Astronomical Journal**! We found 228 new Blazhko field stars! (2024-2025) (https://arxiv.org/abs/2504.05434)
 - _Neural networks: recognizing galaxy mergers_ - CNN designed to recognize if an image is a galaxy merger or not based on simualted data, a Hello Universe project from MAST https://archive.stsci.edu/hello-universe (2023)
 - _Analysis of exoplanetary systems_ - creating extrasolar systems, categorizing exoplanets and trying to find patterns in the planetary world outside of our solar system (2022)
 
