@@ -15,7 +15,7 @@ In addition to research, I also competed in the following:
 - [NASA Space Apps Challenge 2023](https://github.com/emadonev/hackathon2023) - our team CHeDDaR won first prize in Croatia!
 - [Breakthrough Junior Challenge 2022](https://breakthroughjuniorchallenge.org/winners/2022) - top 5 finalist!
 - [IOAA 2024](https://ioaa2024.on.br/index.html) 150. place
-- Croatian National competition in astronomy - twice champion, twice second place
+- Croatian National competition in astronomy - twice champion, 3 times second place
 
 
 <!---
